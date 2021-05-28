@@ -5,5 +5,6 @@ leran project
 - HTML
 - CSS
 - Bootstrap v5
+- JS
 
 (if icons are not displayed, then open with live server)
