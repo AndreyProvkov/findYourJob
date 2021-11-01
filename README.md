@@ -1,6 +1,4 @@
 # findYourJob
-leran project
-
 ## Using technology
 - HTML
 - CSS
