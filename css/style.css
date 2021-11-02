@@ -27,6 +27,9 @@ img {
   color: #111238;
   text-decoration: none;
 }
+.menu-link:hover {
+  color: #1a75e8;
+}
 .button {
   text-decoration: none;
   display: inline-block;
@@ -129,6 +132,7 @@ img {
   padding: 30px;
   margin-bottom: 20px;
 }
+
 .offer-image {
   width: 100px;
   height: 100px;
@@ -167,6 +171,9 @@ img {
   text-decoration: none;
   margin-left: auto;
   margin-right: 25px;
+}
+.button-center {
+  min-width: 193px;
 }
 .subscribe {
   background: #f2f3f6;
